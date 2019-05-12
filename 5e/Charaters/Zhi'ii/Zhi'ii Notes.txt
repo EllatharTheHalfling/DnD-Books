@@ -3,17 +3,6 @@ Mother: Chʼilhaatʼaʼii
 Brothers: Atseeltsoii, Gini
 Familiar: Gaagii (raven), Ne'eshjaa (owl)
 
-Prep'd spells:
--Silent Image
--Major Image
--Web
--Pyrotechnics
--Misty Step
--Mage Armor
--Fog Cloud
--Flaming Sphere
--Phantasmal Force
-
 Rumors:
 -Hangs out in graveyards when the moon is (mostly) full (True)
 --Allegedly to look for fresh graves to open and feast
@@ -28,6 +17,3 @@ Group Rumors:
 -(Adolin) Has a talent for not paying his bills
 -(Brilbo) Morbidly afraid of moths!
 -(Nortle) Has a famous war general brother (WarTortle)
-
-Next Lead:
--Drug Dealer McDealerFace

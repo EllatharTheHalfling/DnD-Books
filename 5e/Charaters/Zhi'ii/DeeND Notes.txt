@@ -1,6 +1,6 @@
 Dee 'n; D Campaign:
--Secret symbol, family symbol?
--Continent Amaray
+-Secret symbol, family symbol? Tellert "Opium" Family
+-Continent Amaray - Kafiro
 -Protection Racket, barkeep didn't pay
 -Red Cross Brotherhood (enemies: facelessmen)
 --To the east
@@ -13,4 +13,4 @@ Dee 'n; D Campaign:
 --Draconic Language for dummies
 -Baron "whatisbucket" -- Red Cross Brotherhood was infiltrating
 
--EoS: Landed in Amaray
+-EoS: Escorted the caravan to the first plantation.
