@@ -12,5 +12,6 @@ Dee 'n; D Campaign:
 --A&P of beholders
 --Draconic Language for dummies
 -Baron "whatisbucket" -- Red Cross Brotherhood was infiltrating
+--Poppy Barron
 
--EoS: Escorted the caravan to the first plantation.
+-EoS: 
